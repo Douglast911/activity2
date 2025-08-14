@@ -1,0 +1,75 @@
+/* Reset some default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background: url(.//gradient-metaverse-background_23-2149263786.avif) center/cover fixed;
+    color: aliceblue;
+}
+
+/* Heading styles */
+#header{
+    font-family: monospace;
+    color: aliceblue;
+    font-size: 3em;
+    text-shadow: 2px 2px 6px white;
+    animation: reverse;
+}
+
+.intro {
+    font-family: "Henny Penney", cursive;
+    color: aliceblue;
+    font-size: 1.2rem;
+
+}
+
+h3 {
+    font-family: "Creepster", cursive;
+    color: aliceblue;
+
+}
+
+ul {
+    color: aliceblue;
+    list-style: square;
+    padding: 0;
+    max-width: 400px;
+    margin: auto;
+    text-align: left;
+}
+
+ul {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px
+
+}
+
+footer {
+    display: block;
+}
+
+/* Image styles */
+img {
+    display: block;
+    max-width: 200px;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+

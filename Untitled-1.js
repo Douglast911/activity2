@@ -1,0 +1,1 @@
+document.body.style.background = "url(https://y.yarn.co/01ee0572-db82-42aa-9c20-976bc0dda210_text.gif)";
